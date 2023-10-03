@@ -114,3 +114,26 @@ input {
     border: none;
     box-shadow: 0 0.1rem 1.4rem 0 rgba(86,185, 235, 0.5);
 }
+
+
+#categoryList {
+    padding: 1rem;
+    margin-bottom: 5rem;
+    
+}
+
+.dropMenu {
+    padding: 1rem;
+    margin-left: 0.5rem;
+    color: #0C356A;
+    border-color: #56a5eb;
+    border-radius: 25px;
+}
+
+.labels {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #56a5eb;
+    font-size: 2rem;
+    padding: 1.5rem;
+    font-weight: 500;
+}
