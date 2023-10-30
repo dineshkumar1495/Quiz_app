@@ -1,5 +1,6 @@
 # Quiz App
 1. Home Page (`index.html`, `index.css`, `index.js`)
+
 ![Screenshot (344)](https://github.com/dineshkumar1495/Quiz_app/assets/94850695/396b669f-ebdf-4c5e-9de9-1aad329abd91)
 
 
@@ -12,6 +13,7 @@ The home page serves as the entry point for users and allows them to set their p
 - index.js: JavaScript code manages user interactions on the home page. It handles the selection of quiz categories and difficulty level, stores these preferences in local storage, and triggers navigation to the game page when the user clicks the "Play" button.
 
 2. Game Page (`game.html`, `game.css`, `game.js`)
+   
 ![Screenshot (346)](https://github.com/dineshkumar1495/Quiz_app/assets/94850695/a1b38c7d-7b93-45fc-99aa-2fe13a083d46)
 
 
@@ -24,6 +26,7 @@ The game page presents quiz questions to the user and tracks their progress and 
 - game.js: JavaScript logic governs the gameplay on this page. It fetches quiz questions from an API, randomizes them, and displays them to the user. It also handles user interactions, such as selecting answers, tracking the score, and advancing to the next question.
 
 3. High Scores Page (`highscores.html`, `highscores.css`, `highscores.js`)
+   
 ![Screenshot (349)](https://github.com/dineshkumar1495/Quiz_app/assets/94850695/44db0114-b458-46d6-9c93-5db67b819966)
 
 
